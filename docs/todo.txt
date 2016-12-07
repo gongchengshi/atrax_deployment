@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Allow deploying packages to non-spot instances by just changing the instance tags and restarting.
+-------------------------------------------------------------------------------
+Pick the best AMI by using ec3.get_all_images and filtering.
+-------------------------------------------------------------------------------
+Switch from Ubuntu Server Linux AMI to Amazon Linux AMI (apt-get to yum)
+-------------------------------------------------------------------------------
